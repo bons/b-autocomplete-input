@@ -1,0 +1,24 @@
+{
+  "curly": true,
+  "eqeqeq": true,
+  "immed": true,
+  "latedef": "nofunc",
+  "newcap": true,
+  "noarg": true,
+  "sub": true,
+  "undef": true,
+  "unused": true,
+  "boss": true,
+  "eqnull": true,
+  "bitwise": true,
+  "forin": true,
+  "maxdepth": 3,
+  "nonew": true,
+  "node": true,
+  "jasmine": true,
+  "browser": true,
+  "globals": {
+    "inject": true,
+    "angular": true
+  }
+}

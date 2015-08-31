@@ -1,0 +1,52 @@
+{
+  "name": "b-autocomplete-input",
+  "description": "An Angular directive to autocomplete inputs after a specific char",
+  "version": "0.1.0",
+  "homepage": "https://github.com/bons/b-autocomplete-input",
+  "author": {
+    "name": "Bons",
+    "email": "hello@bons.me",
+    "url": "http://bons.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bons/b-autocomplete-input.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bons/b-autocomplete-input/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/bons/b-autocomplete-input/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt karma:dist"
+  },
+  "devDependencies": {
+    "browserify": "^9.0.3",
+    "angular": "^1.3.15",
+    "angular-resource": "^1.3.15",
+    "angular-mocks": "*",
+    "karma": "*",
+    "karma-jasmine": "*",
+    "karma-browserify": "*",
+    "karma-chrome-launcher": "*",
+    "karma-firefox-launcher": "*",
+    "karma-phantomjs-launcher": "*",
+    "grunt-contrib-jshint": "~0.11.1",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-uglify": "*",
+    "grunt-browserify": "*",
+    "grunt-ngdocs": "*",
+    "grunt-concurrent": "*",
+    "grunt-karma": "*",
+    "include-all": "~0.1.6",
+    "grunt": "~0.4.5"
+  },
+  "keywords": []
+}
